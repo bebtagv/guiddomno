@@ -23,7 +23,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
+      "main_ad": "applovin",
       "backup_ad": "none",
       "admob_banner_unit_id": "",
       "admob_interstitial_unit_id": "",
@@ -40,10 +40,10 @@
       "unity_game_id": "",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
-      "applovin_banner_unit_id": "0",
-      "applovin_interstitial_unit_id": "0",
-      "applovin_native_manual_unit_id": "0",
-      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_unit_id": "29071342157449f6",
+      "applovin_interstitial_unit_id": "83731e400d2282d8",
+      "applovin_native_manual_unit_id": "eeea9717831254a1",
+      "applovin_open_ad_unit_id": "e05951aadba6b8c9",
       "applovin_banner_zone_id": "0",
       "applovin_interstitial_zone_id": "0",
       "ironsource_app_key": "",
